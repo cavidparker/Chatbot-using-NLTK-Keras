@@ -12,4 +12,4 @@
  - Run the chatbot
 
 
-I'm using this blog to made this project :https://data-flair.training/blogs/python-chatbot-project
+- I'm using this blog to made this project :https://data-flair.training/blogs/python-chatbot-project
